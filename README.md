@@ -131,6 +131,12 @@ active (running)
 
 o Docker está funcionando corretamente.
 
+Parando o Docker:
+
+```bash
+sudo systemctl stop docker
+```
+
 ---
 
 # Testando a instalação
